@@ -1,0 +1,3 @@
+SingletonPattern
+-Logger
+-LoggerTest
